@@ -1,1 +1,1 @@
-# .github
+# Bedrock Chain - Repository
